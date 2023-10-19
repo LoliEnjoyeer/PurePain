@@ -1,0 +1,16 @@
+version="0.0.1"
+tags={
+	"Military"
+	"Map"
+	"National Focuses"
+	"Alternative History"
+	"Events"
+	"Balance"
+	"Gameplay"
+	"Fixes"
+	"Historical"
+	"Technologies"
+}
+name="Droga do pięćdziesiąt sześć odrodzenie"
+picture="thumb.png"
+supported_version="1.13.3"
