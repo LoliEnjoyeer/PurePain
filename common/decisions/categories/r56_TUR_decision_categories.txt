@@ -1,0 +1,28 @@
+TUR_kurdish_rebellion_cat = {
+
+  icon = GFX_decision_category_border_conflicts
+  priority = 100
+	allowed = {
+		original_tag = TUR
+	}
+	visible = {
+		NOT = {
+			has_global_flag = tur_bftb_focus_tree
+		}
+	}
+}
+
+TUR_bolstering_our_armed_forces = {
+
+  icon = GFX_decision_category_border_conflicts
+  priority = 2
+  
+	allowed = {
+		original_tag = TUR
+	}
+	
+	visible = {
+		has_completed_focus = TUR_continue_the_military_reorganization
+	}
+}
+
